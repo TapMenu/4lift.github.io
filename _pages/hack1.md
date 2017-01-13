@@ -33,7 +33,7 @@ feature_row:
 
   - image_path: unsplash-gallery-image-2-th.jpg
     title: "Умный город"
-    excerpt: "Создайте приложение ориентированное на улучшение жизни вашего жителей любимого города"
+    excerpt: "Создайте приложение ориентированное на улучшение жизни жителей вашего любимого города"
 
   - image_path: unsplash-gallery-image-3-th.jpg
     title: "IT Студент"
