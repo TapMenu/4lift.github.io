@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-bolt'></i> Зайти в LIFT"
   cta_url: "https://goo.gl/forms/PidtNegf6fNMwsKC3"
   caption:
-excerpt: 'Бизнес-акселлератор СФ БашГУ'
+excerpt: 'Бизнес-акселератор СФ БашГУ'
 feature_row:
   - image_path: hack/hack1_mini.jpg
     alt: "Хакатон"
