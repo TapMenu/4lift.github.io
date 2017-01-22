@@ -3,10 +3,10 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: mm-home-page-feature.jpg
+  overlay_image: 8mbdd0phxgy-joshua-earle.jpg
   cta_label: "<i class='fa fa-bolt'></i> Зайти в LIFT"
   cta_url: "https://goo.gl/forms/PidtNegf6fNMwsKC3"
-  caption:
+  caption: "Photo credit: [Unsplash](https://unsplash.com/photos/8MbdD0pHXGY)"
 excerpt: 'Бизнес-акселератор СФ БашГУ'
 feature_row:
   - image_path: hack/hack1_mini.jpg
