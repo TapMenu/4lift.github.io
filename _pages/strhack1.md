@@ -27,18 +27,24 @@ intro:
     excerpt: 'Вы можете участвовать с любым проектом, не только в секциях партнеров.'
 
 feature_row:
-  - image_path: unsplash-gallery-image-1-th.jpg
-    title: "Машинное обучение"
+  - title: "AI (Машинное обучение)"
     excerpt: "Секция для любителей научить искусственный интеллект чему-нибудь новенькому"
 
-  - image_path: unsplash-gallery-image-2-th.jpg
-    title: "Умный город"
+  - title: "Чат-боты"
+    excerpt: "Чат-боты или диалоговые помощники, отличный инструмент для автоматизации общения бизнеса и его пользователей в социальнах сетях"
+
+  - title: "Умный город"
     excerpt: "Создайте приложение, ориентированное на улучшение жизни жителей вашего любимого города"
 
-  - image_path: unsplash-gallery-image-3-th.jpg
-    title: "IT Студент"
+  # - image_path: unsplash-gallery-image-3-th.jpg
+  - title: "IT Студент"
     excerpt: "Вы знаете, как улучшить жизнь студента? Создайте мегаприложение!"
 
+  - title: "VR (Виртуальная реальность)"
+    excerpt: "Умеете делать игры и хотели попробовать добавить VR? Отлично для Вас у нас есть пара Oculus Rift"
+
+  - title: "Свободная"
+    excerpt: "Вы можете делать все что угодно! Это в первое очередь творчество и общение."
 
 feature_row2:
   - image_path: unsplash-gallery-image-2-th.jpg
@@ -51,6 +57,30 @@ feature_row2:
 
 
 
+gallery:
+  - url: hack/vizit/salavatov.jpg
+    image_path: hack/vizit/salavatov.jpg
+    title: "Рустам Салаватов"
+  - url: hack/vizit/kowalsky.jpg
+    image_path: hack/vizit/kowalsky.jpg
+    title: "Алексей Ковальский"
+
+
+guests:
+  - url: hack/vizit/smena.jpg
+    image_path: hack/vizit/smena.jpg
+    title: "SMENA"
+  - url: hack/vizit/putevoditel.jpg
+    image_path: hack/vizit/putevoditel.jpg
+    title: "Путеводитель по Инновациями 2.0"
+
+sposnors:
+  - url: hack/vizit/shadrina.jpg
+    image_path: hack/vizit/shadrina.jpg
+  - url: hack/vizit/kuznetsov.jpg
+    image_path: hack/vizit/kuznetsov.jpg
+  - url: hack/vizit/oreshnikova.jpg
+    image_path: hack/vizit/oreshnikova.jpg
 ---
 
 
@@ -61,40 +91,50 @@ feature_row2:
 Да-да, вы не ослышались! Спать придется по очереди, там же (на диванчиках!), перекусывать на ходу и работать всю ночь напролет.
 
 
-{% include feature_row id="intro" type="center" %}
+<!-- {% include feature_row id="intro" type="center" %} -->
 {% include feature_row %}
 
 
-### Программа
+### Организаторы
 
-| Событие | Время | Описание |
-|:--------|:-------:|--------:|
-| Регистрация   | 14.00   | Регистрация участников   |
-| Начало   | 14.30   | Торжественное открытие   |
-|-----------------------------|
-| Салаватов Рустам   | 15.00   | Доклад: О Стартапах   |
-| Презентация Секций   | 16.00   |  Партнеры и спонсоры хакатона  |
-| Григорьева Марина   | 16.30   | Мастер-класс: Командообразование   |
-| Регистрация команд   | 18.00   |    |
-| Начало Хакатанов    | 18.30   |    |
-| 1 Deadline   | 21.00   |    |
-| 2 Deadline   | 00.00   |    |
-| Завтрак   | 9.00   |    |
-| 3 Deadline   | 12.00   |  Выгрузка презентаций  |
-| Презентация   | 14.00   |    |
-| Награждение   | 16.00   |    |
+{% include gallery %}
+
+
+### Гости с докладом
+
+{% include gallery id="guests" %}
+
+
+
+### Спонсоры
+
+{% include gallery id="sposnors" %}
+
+
+### Программа. День 1 / День 2
+
+| Время | Событие |
+|:------|:-------:|
+| 16:00 | Регистрация       |
+| 16:30 | Торжественное открытие       |
+| 17:00 | Старт Докладов       |
+| 20:00 | Начало Хакатона       |
+| 20:30 | Командообразование (speed dating)       |
+| 21:30 | Презентация идей       |
+| 22:00 | Трекинг-сессия      |
 |=============================|
-| Заверешение   | 17.00   |    |
-{:.MyClass}
+{:.programma}
+
+
+| Время | Событие |
+|:------|:-------:|
+| 09:00 | Завтрак+Зарядка       |
+| 10:00 | Телемост      |
+| 13:00 | Презентация результатов       |
+| 15:00 | Награждение       |
+| 16:00 | Закрытие     |
+|=============================|
+{:.programma}
+
 
 <!-- {: style="text-align: center;"} -->
-
-
-### Партнёры
-<!--
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   | -->
