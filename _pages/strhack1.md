@@ -58,12 +58,15 @@ feature_row2:
 
 
 gallery:
-  - url: hack/vizit/salavatov.jpg
-    image_path: hack/vizit/salavatov.jpg
-    title: "Рустам Салаватов"
   - url: hack/vizit/kowalsky.jpg
     image_path: hack/vizit/kowalsky.jpg
     title: "Алексей Ковальский"
+  - url: hack/vizit/salavatov.jpg
+    image_path: hack/vizit/salavatov.jpg
+    title: "Рустам Салаватов"
+  - url: hack/vizit/marina.jpg
+    image_path: hack/vizit/marina.jpg
+    title: "Марина Григорьева"
 
 
 guests:
