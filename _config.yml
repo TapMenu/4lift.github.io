@@ -80,18 +80,18 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "logo_lift.jpg"
+  avatar           : "logo_lift.png"
   bio              : "Бизнес-акселератор СФ БашГУ"
-  location         : "Стерлитамак, РБ"
-  email            :
+  location         : "Пр.Ленина, 49"
+  email            : "info@4lift.net"
   uri              : "https://4lift.net"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "4liftnet"
   foursquare       :
-  github           : "4lift"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -107,7 +107,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-
+  vk               : "4liftnet"
 
 # Reading Files
 include:
@@ -164,20 +164,20 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+# # Collections
+# collections:
+#   docs:
+#     output: true
+#     permalink: /:collection/:path/
+#   recipes:
+#     output: true
+#     permalink: /:collection/:path/
+#   pets:
+#     output: true
+#     permalink: /:collection/:path/
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
 
 
 # Defaults
@@ -200,44 +200,44 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"
-  # _recipes
-  - scope:
-      path: ""
-      type: recipes
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
+  # # _docs
+  # - scope:
+  #     path: ""
+  #     type: docs
+  #   values:
+  #     layout: single
+  #     read_time: false
+  #     author_profile: false
+  #     share: false
+  #     comments: false
+  #     sidebar:
+  #       nav: "docs"
+  # # _recipes
+  # - scope:
+  #     path: ""
+  #     type: recipes
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # # _pets
+  # - scope:
+  #     path: ""
+  #     type: pets
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: false
+  #     share: true
 
 
 # Sass/SCSS

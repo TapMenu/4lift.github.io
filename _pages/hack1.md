@@ -1,15 +1,15 @@
 ---
 title: "#1 Хакатон в Стерлитамаке"
-layout: splash
+layout: hack
 permalink: /hack1/
 date: 2017-01-10T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: hack1.jpg
+  overlay_image: hack/hack1.jpg
   cta_label: "Принять участие"
   cta_url: "https://4lift.timepad.ru/event/431294/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Собери свою команду и докажи, что ты лучший! <br />Создай крутой прототип и получи ценный приз!"
 
 
@@ -20,7 +20,7 @@ feature_row_info:
     # url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--inverse"
-
+    #
 
 intro:
   - title: "Секции партнеров:"
@@ -33,7 +33,7 @@ feature_row:
 
   - image_path: unsplash-gallery-image-2-th.jpg
     title: "Умный город"
-    excerpt: "Создайте приложение, ориентированное на улучшение жизни жителей вашего любимого города
+    excerpt: "Создайте приложение, ориентированное на улучшение жизни жителей вашего любимого города"
 
   - image_path: unsplash-gallery-image-3-th.jpg
     title: "IT Студент"
@@ -83,6 +83,7 @@ feature_row2:
 | Награждение   | 16.00   |    |
 |=============================|
 | Заверешение   | 17.00   |    |
+{:.MyClass}
 
 <!-- {: style="text-align: center;"} -->
 
