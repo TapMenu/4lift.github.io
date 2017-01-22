@@ -4,6 +4,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: 8mbdd0phxgy-joshua-earle.jpg
+  overlay_filter: "0.5"
   cta_label: "<i class='fa fa-bolt'></i> Зайти в LIFT"
   cta_url: "https://goo.gl/forms/PidtNegf6fNMwsKC3"
   caption: "Photo credit: [Unsplash](https://unsplash.com/photos/8MbdD0pHXGY)"

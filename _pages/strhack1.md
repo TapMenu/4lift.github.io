@@ -1,16 +1,16 @@
 ---
-title: "#1 Хакатон в Стерлитамаке"
+title: "#STRHACK1 Первый Хакатон в Стерлитамаке"
 layout: hack
 permalink: /strhack1/
 date: 2017-01-10T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: hack/hack1.jpg
+  # overlay_filter: "0.5"
+  overlay_image: hack/hack1_txt.jpg
   cta_label: "Принять участие"
   cta_url: "https://4lift.timepad.ru/event/431294/"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Собери свою команду и докажи, что ты лучший! <br />Создай крутой прототип и получи ценный приз!"
+# excerpt: "Пробуждение Силы! Умеешь программировать? Приходи! известные гости и спикеры, нетворкинг, призы от партнеров и много интересного. "
 
 
 feature_row_info:
@@ -52,6 +52,8 @@ feature_row2:
 
 
 ---
+
+
 {% include feature_row id="feature_row2" type="left" %}
 
 Хакатон – это «марафон программистов»: на площадке бизнес-акселератора соберутся небольшие команды программистов и веб-дизайнеров, которым предстоит за 36 часов написать полноценное программное обеспечение на заданную тему.
