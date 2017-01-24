@@ -84,6 +84,10 @@ sposnors:
     image_path: hack/vizit/kuznetsov.jpg
   - url: hack/vizit/oreshnikova.jpg
     image_path: hack/vizit/oreshnikova.jpg
+  - url: hack/vizit/mahnovskiy.jpg
+    image_path: hack/vizit/mahnovskiy.jpg
+  - url: hack/vizit/vedisheva.jpg
+    image_path: hack/vizit/vedisheva.jpg
 ---
 
 
