@@ -76,9 +76,6 @@ guests:
   - url: hack/vizit/putevoditel.jpg
     image_path: hack/vizit/putevoditel.jpg
     title: "Путеводитель по Инновациями 2.0"
-  - url: hack/vizit/damir.jpg
-    image_path: hack/vizit/damir.jpg
-    title: "Путеводитель по Инновациями 2.0"
   - url: hack/vizit/kuznetsov.jpg
     image_path: hack/vizit/kuznetsov.jpg
     title: "Василий Кузнецов"
