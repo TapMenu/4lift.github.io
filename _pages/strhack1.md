@@ -91,8 +91,8 @@ skype:
 sposnors:
   - url: hack/vizit/shadrina.jpg
     image_path: hack/vizit/shadrina.jpg
-  - url: hack/vizit/kuznetsov.jpg
-    image_path: hack/vizit/kuznetsov.jpg
+  - url: hack/vizit/vodokanal.jpg
+    image_path: hack/vizit/vodokanal.jpg
   - url: hack/vizit/oreshnikova.jpg
     image_path: hack/vizit/oreshnikova.jpg
   - url: hack/vizit/mahnovskiy.jpg
