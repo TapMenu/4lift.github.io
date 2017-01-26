@@ -93,6 +93,8 @@ sposnors:
     image_path: hack/vizit/shadrina.jpg
   - url: hack/vizit/vodokanal.jpg
     image_path: hack/vizit/vodokanal.jpg
+  - url: hack/vizit/karimova.jpg
+    image_path: hack/vizit/karimova.jpg
   - url: hack/vizit/oreshnikova.jpg
     image_path: hack/vizit/oreshnikova.jpg
   - url: hack/vizit/mahnovskiy.jpg
