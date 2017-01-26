@@ -87,6 +87,9 @@ skype:
   - url: hack/vizit/russiaai.jpg
     image_path: hack/vizit/russiaai.jpg
     title: "Петр Жегин"
+  - url: hack/vizit/goldman.jpg
+    image_path: hack/vizit/goldman.jpg
+    title: "Петр Жегин"
     
 sposnors:
   - url: hack/vizit/shadrina.jpg
