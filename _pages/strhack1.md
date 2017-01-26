@@ -79,7 +79,7 @@ guests:
   - url: hack/vizit/kuznetsov.jpg
     image_path: hack/vizit/kuznetsov.jpg
     title: "Василий Кузнецов"
-    
+       
 skype:
   - url: hack/vizit/damir.jpg
     image_path: hack/vizit/damir.jpg
@@ -99,6 +99,19 @@ sposnors:
     image_path: hack/vizit/mahnovskiy.jpg
   - url: hack/vizit/vedisheva.jpg
     image_path: hack/vizit/vedisheva.jpg
+  - url: hack/vizit/bakiev.jpg
+    image_path: hack/vizit/bakiev.jpg
+    title: "Ринат Бакиев"
+  - url: hack/vizit/nikiforov.jpg
+    image_path: hack/vizit/nikiforov.jpg
+    title: "Дмитрий Никифоров"
+  - url: hack/vizit/nrj.jpg
+    image_path: hack/vizit/nrj.jpg
+    title: "Радио NRJ"
+  - url: hack/vizit/srk.jpg
+    image_path: hack/vizit/srk.jpg
+    title: "СРК"
+    
 ---
 
 
@@ -129,7 +142,7 @@ sposnors:
 
 
 
-### Спонсоры
+### Партнёры и спонсоры
 
 {% include gallery id="sposnors" %}
 
