@@ -76,7 +76,21 @@ guests:
   - url: hack/vizit/putevoditel.jpg
     image_path: hack/vizit/putevoditel.jpg
     title: "Путеводитель по Инновациями 2.0"
-
+  - url: hack/vizit/damir.jpg
+    image_path: hack/vizit/damir.jpg
+    title: "Путеводитель по Инновациями 2.0"
+  - url: hack/vizit/kuznetsov.jpg
+    image_path: hack/vizit/kuznetsov.jpg
+    title: "Василий Кузнецов"
+    
+skype:
+  - url: hack/vizit/damir.jpg
+    image_path: hack/vizit/damir.jpg
+    title: "Дамир Казыханов"
+  - url: hack/vizit/russiaai.jpg
+    image_path: hack/vizit/russiaai.jpg
+    title: "Петр Жегин"
+    
 sposnors:
   - url: hack/vizit/shadrina.jpg
     image_path: hack/vizit/shadrina.jpg
@@ -107,9 +121,14 @@ sposnors:
 {% include gallery %}
 
 
-### Гости с докладом
+### Спикеры с докладом
 
 {% include gallery id="guests" %}
+
+
+### Спикеры на телемосте
+
+{% include gallery id="skype" %}
 
 
 
