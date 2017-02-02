@@ -6,12 +6,12 @@ main:
   - title: "#STRHACK1"
     url: /strhack1/
 
+  - title: "Блог"
+    url: /year-archive/
+
   - title: "Контакты"
     url: /about/
-
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  #
+    
   # - title: "Sample Collections"
   #   url: /collection-archive/
   #
