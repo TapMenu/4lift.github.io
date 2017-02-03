@@ -16,7 +16,7 @@ sidebar:
   - title: "Контакты"
   - text: "[vk.com](https://vk.com/id296656139)"
   - text: "[facebook.com](https://www.facebook.com/profile.php?id=100010615158719)"
-  - text: "[gmv@4lift.net](mailto:gmv@4lift.me)"
+  - text: "[gmv@4lift.net](mailto:gmv@4lift.net)"
 gallery:
   - url: https://pp.vk.me/c836537/v836537139/23a6c/gOwacMGe1iI.jpg
     image_path: https://pp.vk.me/c836537/v836537139/23a6c/gOwacMGe1iI.jpg

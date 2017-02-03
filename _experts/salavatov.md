@@ -16,7 +16,7 @@ sidebar:
   - title: "Контакты"
   - text: "[vk.com](https://vk.com/web_site)"
   - text: "[facebook.com](https://www.facebook.com/rust.salavatov)"
-  - text: "[rs@4lift.net](mailto:info@4lift.me)"
+  - text: "[rs@4lift.net](mailto:rs@4lift.net)"
   - text: "+7 962 52 38 149"
 gallery:
   - url: https://pp.vk.me/c622430/v622430304/1bb85/X5jPxE_GoFk.jpg
