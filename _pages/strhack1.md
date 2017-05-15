@@ -79,7 +79,7 @@ guests:
   - url: hack/vizit/kuznetsov.jpg
     image_path: hack/vizit/kuznetsov.jpg
     title: "Василий Кузнецов"
-       
+
 skype:
   - url: hack/vizit/damir.jpg
     image_path: hack/vizit/damir.jpg
@@ -90,7 +90,7 @@ skype:
   - url: hack/vizit/goldman.jpg
     image_path: hack/vizit/goldman.jpg
     title: "Петр Жегин"
-    
+
 sposnors:
   - url: hack/vizit/shadrina.jpg
     image_path: hack/vizit/shadrina.jpg
@@ -116,7 +116,7 @@ sposnors:
   - url: hack/vizit/srk.jpg
     image_path: hack/vizit/srk.jpg
     title: "СРК"
-    
+
 ---
 
 
@@ -152,6 +152,9 @@ sposnors:
 {% include gallery id="sposnors" %}
 
 
+# Отчёт по хакатону https://4lift.github.io/strhack/strhack1/
+
+
 ### Программа. День 1 / День 2
 
 | Время | Событие |
@@ -184,6 +187,7 @@ sposnors:
 | 16:00 | Закрытие     |
 |=============================|
 {:.programma}
+
 
 
 <!-- {: style="text-align: center;"} -->

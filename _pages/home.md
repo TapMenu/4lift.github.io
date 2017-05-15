@@ -10,24 +10,27 @@ header:
   caption: "Photo credit: [Unsplash](https://unsplash.com/photos/8MbdD0pHXGY)"
 excerpt: 'Бизнес-акселератор СФ БашГУ'
 feature_row:
+  - image_path: https://pp.userapi.com/c638718/v638718550/376bc/tRneyCM9lT4.jpg
+    alt: "StartupDay"
+    title: "Startup Day"
+    excerpt: "Стартапы, инвесторы, эксперты все в один день будут в Стерлитамаке 19 мая."
+    url: "/strstartup/"
+    btn_label: "Подробнее"
+
   - image_path: hack/hack1_mini.jpg
     alt: "Хакатон"
-    title: "Перый хакатон в Стерлитамаке"
+    title: "Первый хакатон в Стерлитамаке"
     excerpt: "Умеешь программировать? Приходи! известные гости и спикеры, нетворкинг, призы от партнеров и много интересного."
     url: "/strhack1/"
     btn_label: "Подробнее"
+
   - image_path: coworking.jpg
     alt: "Коворкинг-центр"
     title: "Коворкинг-центр"
     excerpt: "Мы оборудуем для резидентов LIFT коворкинг-центр, иначе, коллективный офис, организованный по принципу открытого пространства."
     # url: "/hub/"
     # btn_label: "Learn More"
-  - image_path: vpotoke.jpg
-    alt: "Тренинговый центр «Впотоке»"
-    title: "Тренинговый центр «Впотоке»"
-    excerpt: "Обучение лучшим бизнес-практикам!"
-    url: "/vpotoke/"
-    btn_label: "Подробнее"
+
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
