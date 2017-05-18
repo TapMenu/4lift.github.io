@@ -10,7 +10,7 @@ locale                   : "ru-RU"
 title                    : "TapMenu"
 title_separator          : "-"
 name                     : &name "TapMenu"
-description              : &description "Бизнес-акселлератор СФ БашГУ (Респ. Башкортостан, г.Стерлитамак)"
+description              : &description "CRM для кольянных и ресторанов (Респ. Башкортостан, г.Стерлитамак)"
 url                      : https://TapMenu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TapMenu/TapMenu.github.io"
@@ -81,15 +81,15 @@ analytics:
 author:
   name             : *name
   avatar           : "logo_lift.png"
-  bio              : "Бизнес-акселератор СФ БашГУ"
-  location         : "Пр.Ленина, 49"
-  email            : "info@4lift.net"
-  uri              : "https://4lift.net"
+  bio              : "TapMenu"
+  location         : "Адрес ?????"
+  email            : "Kastiel.www@yandex.ru"
+  uri              : ""
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "4liftnet"
+  facebook         : ""
   foursquare       :
   github           :
   google_plus      :
@@ -107,7 +107,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  vk               : "4liftnet"
+  vk               : ""
 
 # Reading Files
 include:
