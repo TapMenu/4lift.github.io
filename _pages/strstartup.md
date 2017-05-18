@@ -32,21 +32,30 @@ gallery:
   - url: https://pp.userapi.com/c837125/v837125550/51502/RZNx66oWJg0.jpg
     image_path: https://pp.userapi.com/c837125/v837125550/51502/RZNx66oWJg0.jpg
     title: "Камиль Хисматуллин"
+  - url: https://pp.userapi.com/c639223/v639223550/24689/TNwme8EPqJY.jpg
+    image_path: https://pp.userapi.com/c639223/v639223550/24689/TNwme8EPqJY.jpg
+    title: "Фаем Ахметзянов"
+  - url: https://pp.userapi.com/c638728/v638728550/377da/UKExDSDB8C8.jpg
+    image_path: https://pp.userapi.com/c638728/v638728550/377da/UKExDSDB8C8.jpg
+    title: "Денис Попов"
+  - url: https://pp.userapi.com/c638728/v638728550/377d1/yfrMRg2LOm0.jpg
+    image_path: https://pp.userapi.com/c638728/v638728550/377d1/yfrMRg2LOm0.jpg
+    title: "Евгения Долгих"
+  - url: https://pp.userapi.com/c638728/v638728550/377c8/z90rD_gUTU4.jpg
+    image_path: https://pp.userapi.com/c638728/v638728550/377c8/z90rD_gUTU4.jpg
+    title: "Руслан Шаймухаметов"
   # - url: hack/vizit/marina.jpg
   #   image_path: hack/vizit/marina.jpg
   #   title: "Марина Григорьева"
 
 
-# guests:
-#   - url: hack/vizit/smena.jpg
-#     image_path: hack/vizit/smena.jpg
-#     title: "SMENA"
-#   - url: hack/vizit/putevoditel.jpg
-#     image_path: hack/vizit/putevoditel.jpg
-#     title: "Путеводитель по Инновациями 2.0"
-#   - url: hack/vizit/kuznetsov.jpg
-#     image_path: hack/vizit/kuznetsov.jpg
-#     title: "Василий Кузнецов"
+priz:
+  - url: https://pp.userapi.com/c637926/v637926550/542c3/aqOfuYqu5sk.jpg
+    image_path: https://pp.userapi.com/c637926/v637926550/542c3/aqOfuYqu5sk.jpg
+    title: "Билет на Startup Village"
+  - url: https://pp.userapi.com/c637926/v637926550/542b5/AZPq1iYfDIc.jpg
+    image_path: https://pp.userapi.com/c637926/v637926550/542b5/AZPq1iYfDIc.jpg
+    title: "Билет на Бузан"
 
 # skype:
 #   - url: hack/vizit/damir.jpg
@@ -91,6 +100,10 @@ gallery:
 ### Спикеры
 
 {% include gallery %}
+
+### Призы
+
+{% include gallery id="priz" %}
 
 <!--
 ### Спикеры с докладом
